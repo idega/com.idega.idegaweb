@@ -1,0 +1,23 @@
+#Fri Mar 07 16:03:02 CET 2003
+mark_ready_date=mark_ready_date
+type_map=Category
+property=Property
+system_properties=System properties
+choice_start_date=choice_start_date
+school_properties=school_properties
+mail_properties=mail_properties
+property_name=Name
+type_property=Property
+choice_critical_date=choice_critical_date
+value=Value
+category=Category
+school_change_start=school_change_start
+property_type=Type
+save=Save
+delete=Delete
+layout_settings=layout_settings
+child_care=child_care
+iw.component.com.idega.idegaweb.presentation.SystemProperties.name=SystemProperties
+choice_end_date=choice_end_date
+property_value=Value
+mark_locked_date=mark_locked_date

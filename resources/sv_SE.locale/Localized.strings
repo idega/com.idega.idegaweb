@@ -1,0 +1,25 @@
+#Tue Sep 09 17:03:06 CEST 2003
+can_send_email=can_send_email
+case_status_key.FLYT=Flyttad
+category=Kategori
+child_care=Barnomsorg
+choice_critical_date=Sista datum f\u00F6r skolval
+choice_end_date=Skolval slutar
+choice_start_date=Skolval b\u00F6rjar
+delete=Radera
+iw.component.com.idega.idegaweb.presentation.SystemProperties.name=SystemInst\u00E4llningar
+layout_settings=Utformning
+mail_properties=mail_properties
+mark_locked_date=Datum f\u00F6r definitivt besked om plats i skola
+mark_ready_date=Datum f\u00F6r erbjudande om plats i skola
+property=Egenskap
+property_name=Namn
+property_type=Typ
+property_value=V\u00E4rde
+save=Spara
+school_change_start=school_change_start
+school_properties=Skola
+system_properties=Egenskaper system
+type_map=Kategori
+type_property=Egenskap
+value=V\u00E4rde

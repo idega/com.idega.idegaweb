@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pxml>
+  <map>
+    <key>
+      <name>iw_components</name>
+      <value>
+        <map>
+          <key>
+            <name>com.idega.idegaweb.presentation.SystemProperties</name>
+            <value>
+              <map>
+                <key>
+                  <name>component_name</name>
+                  <type>java.lang.String</type>
+                  <value>SystemProperties</value>
+                </key>
+                <key>
+                  <name>component_type</name>
+                  <type>java.lang.String</type>
+                  <value>iw.block</value>
+                </key>
+                <key>
+                  <name>iw_component_methods</name>
+                  <value>
+                    <map />
+                  </value>
+                  <type>map</type>
+                </key>
+              </map>
+            </value>
+            <type>map</type>
+          </key>
+        </map>
+      </value>
+      <type>map</type>
+    </key>
+    <key>
+      <name>iw_bundle_identifier</name>
+      <type>java.lang.String</type>
+      <value>com.idega.idegaweb</value>
+    </key>
+  </map>
+</pxml>
+
