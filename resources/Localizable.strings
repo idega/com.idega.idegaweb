@@ -1,15 +1,23 @@
-#Tue Sep 09 17:03:06 CEST 2003
+#Fri Oct 24 12:54:48 CEST 2003
+=
+Add\ to=
+CommuneReportBusiness.parent2_ssn=
+button_remove=
 can_send_email=
 case_status_key.FLYT=
 category=
+change_school_start=
 child_care=
+child_care.three_months_prognosis_required=
 choice_critical_date=
 choice_end_date=
 choice_start_date=
 delete=
+headers=
 iw.component.com.idega.idegaweb.presentation.SystemProperties.name=
 layout_settings=
 mail_properties=
+mail_server=
 mark_locked_date=
 mark_ready_date=
 property=
