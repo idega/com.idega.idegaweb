@@ -10,21 +10,9 @@
             <value>
               <map>
                 <key>
-                  <name>component_name</name>
+                  <name>component_property_file</name>
                   <type>java.lang.String</type>
-                  <value>SystemProperties</value>
-                </key>
-                <key>
-                  <name>component_type</name>
-                  <type>java.lang.String</type>
-                  <value>iw.block</value>
-                </key>
-                <key>
-                  <name>iw_component_methods</name>
-                  <value>
-                    <map />
-                  </value>
-                  <type>map</type>
+                  <value>com.idega.idegaweb.presentation.SystemProperties.pxml</value>
                 </key>
               </map>
             </value>
