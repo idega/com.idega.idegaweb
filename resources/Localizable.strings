@@ -1,4 +1,3 @@
-#Mon Oct 27 01:32:55 CET 2003
 =
 Add\ to=
 CommuneReportBusiness.parent2_ssn=
@@ -6,16 +5,21 @@ button_remove=
 can_send_email=
 case_status_key.FLYT=
 category=
+cellpadding=cellpadding
+cellspacing=cellspacing
 change_school_start=
 child_care=
 child_care.three_months_prognosis_required=
 choice_critical_date=
 choice_end_date=
 choice_start_date=
+com.idega.core.editorwindow_styleSheet_path=com.idega.core.editorwindow_styleSheet_path
+commune_id=commune_id
 delete=
 headers=
 iw.component.com.idega.idegaweb.presentation.SystemProperties.name=
 layout_settings=
+mail.idega.is=mail.idega.is
 mail_properties=
 mail_server=
 mark_locked_date=
