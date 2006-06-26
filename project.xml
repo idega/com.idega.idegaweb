@@ -7,7 +7,13 @@
   <currentVersion>3.1.0</currentVersion>
   <inceptionYear>2004</inceptionYear>
   <shortDescription>Just a pretty pointless bundle at the moment</shortDescription>
-  <versions/>
+  <versions>
+    <version>
+      <id>3.1.0</id>
+      <name>3.1.0</name>
+      <tag>IDEGAWEB_3_1_0</tag>
+    </version>
+  </versions>
   <branches/>
   <developers>
     <developer>
