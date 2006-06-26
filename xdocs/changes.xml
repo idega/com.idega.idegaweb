@@ -1,0 +1,15 @@
+<document>
+  <properties>
+    <title> changes</title>
+    <author email="tryggvi@idega.com">Tryggvi Larusson</author>
+  </properties>
+  <body>
+  
+	<release version="3.1.0" date="2006-06-26">
+      <action dev="tryggvil" type="update">
+        Built version to be used with ePlatform release 3.1
+      </action>              
+	</release>
+
+  </body>
+</document>
